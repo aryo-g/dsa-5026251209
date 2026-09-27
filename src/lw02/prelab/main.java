@@ -70,7 +70,7 @@ public class main {
                     }
                 }
             }
-        }
+        } 
 
         System.out.println("=== Final Balances ===");
         for (int i = 0; i < custData.size(); i++) {
